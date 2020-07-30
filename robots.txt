@@ -1,1 +1,1 @@
-Sitemap: https://kosalanuwan.github.io/otto/sitemap.xml
+Sitemap: https://kosalanuwan.github.io/sitemap.xml

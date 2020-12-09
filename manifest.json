@@ -1,0 +1,23 @@
+
+{
+  "short_name": "kosalanuwan",
+  "name": "kosalanuwan",
+  "description": "Currently Architect - Technology at &lt;a href=\&quot;\&quot;&gt;Virtusa&lt;/a&gt;. Business process critic. OSS &amp; developer advocate. Huge GitHub nerd.",
+  "icons": [
+    {
+      "src": "/splash-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff"
+}
